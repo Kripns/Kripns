@@ -9,6 +9,6 @@
   <img height="24px" src="https://www.codewars.com/users/Kripns/badges/large">
 </a>
 <p></p>
-<a href="https://t.me/kripns" target="_blank">
+<a href="https://t.me/PetrSid" target="_blank">
   <img src="./media/telegram11.png">
 </a>
